@@ -1,0 +1,25 @@
+[user]
+  name =  Yvan Michel
+
+[core]
+  editor = vim 
+
+[rerere]
+  enabled = true
+
+[alias]
+  br = branch -v
+  cm = commit -v
+  co = checkout
+  st = status
+  ru = remote update
+
+[color]
+  ui = auto
+  status = auto
+  pager = true
+  diff = auto
+  branch = auto
+
+[merge]
+  summary = true
